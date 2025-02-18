@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartika-k&show_icons=true&locale=en&layout=compact" alt="kartika-k" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartika-k&show_icons=true&locale=en" alt="kartika-k" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartika-k&" alt="kartika-k" /></p>
