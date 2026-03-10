@@ -1,22 +1,110 @@
 <h1 align="center">Hi 👋, I'm Kartika Kannojiya</h1>
-<h3 align="center">Aspiring and passionate full-stack-web-developer.</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/47152092/252150721-f6c53d2d-65db-4063-a256-74a10f200879.gif">
- -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartika-k&label=Profile%20views&color=0e75b6&style=flat" alt="kartika-k" /> </p>
+<h3 align="center">Full Stack Developer | Building Scalable Web & AI Applications</h3>
 
-- 🔭 I’m currently working on **Personal Projects**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node+%7C+Python;Building+Scalable+Web+Applications;Backend+%26+AI+Systems+Enthusiast" />
+</p>
 
-- 🌱 I’m currently focusing on **Data Structure and Algorithms**
+---
 
-- 💬 Ask me about C++, JavaScript, Mern Stack, Data Structures and Algorithms.
-  
-- 📫 How to reach me kartikakannojiya28@gmail.com
+## 👩‍💻 About Me
 
-- Connect with me: <a href="https://www.linkedin.com/in/kartika-k2810/" target="_blank" rel="noopener noreferrer">Linkedin</a>
+🔭 Currently working as **Full Stack Developer at Pingmedia**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+⚡ Experienced in building **scalable web applications and backend APIs**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartika-k&show_icons=true&locale=en&layout=compact" alt="kartika-k" /></p>
+💻 Tech Stack: **ReactJS, TypeScript, Node.js, Python, FastAPI**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartika-k&show_icons=true&locale=en" alt="kartika-k" /></p>
+🧠 Currently improving **Data Structures & Algorithms**
+
+🚀 Interested in **Backend Systems, AI Applications, and Scalable Architecture**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### StudyMate – Full Stack EdTech Platform
+Built a MERN platform for creating and consuming educational content.
+
+**Features**
+- JWT Authentication  
+- Course Management  
+- Razorpay Payment Integration  
+
+Tech: **React, Node.js, MongoDB**
+
+---
+
+### Student Rank Predictor – ML Web App
+
+Machine learning application predicting **NEET ranks based on quiz data**
+
+Tech: **Next.js, Flask, Scikit-learn**
+
+---
+
+### Task Management App
+
+Production-ready task manager with authentication and REST APIs.
+
+Tech: **Next.js, TypeScript, Prisma, PostgreSQL**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: **kartikakannojiya28@gmail.com**
+
+💼 LinkedIn: **https://linkedin.com/in/YOUR_LINK**
+
+💻 GitHub: **https://github.com/YOUR_USERNAME**
+
+---
+
+⭐️ If you like my work, consider giving a star to my repositories!
