@@ -97,12 +97,6 @@ Tech: **Next.js, TypeScript, Prisma, PostgreSQL**
 
 ---
 
-## 📈 Contribution Graph
-
-[![Kartika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kartika-k&theme=tokyo-night)](https://github.com/kartika-k)
-
----
-
 ## 🌐 Connect With Me
 
 📧 Email: **kartikakannojiya28@gmail.com**
