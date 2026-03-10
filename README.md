@@ -84,15 +84,15 @@ Tech: **Next.js, TypeScript, Prisma, PostgreSQL**
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kartika-k&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartika-k&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartika-k&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -101,9 +101,11 @@ Tech: **Next.js, TypeScript, Prisma, PostgreSQL**
 
 📧 Email: **kartikakannojiya28@gmail.com**
 
-💼 LinkedIn: **https://linkedin.com/in/YOUR_LINK**
+💼 LinkedIn: **https://www.linkedin.com/in/kartika-k2810/**
 
-💻 GitHub: **https://github.com/YOUR_USERNAME**
+💻 GitHub: **https://github.com/kartika-k**
+
+Portfolio: **https://kartikaportfolio.vercel.app/**
 
 ---
 
